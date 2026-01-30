@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mubarek | Full-Stack Web & Mobile Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;MERN+Stack+Specialist;React+Native+%26+Flutter+Developer;Building+Value-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+Native+%26+Flutter+Developer;Building+Value-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 ---
